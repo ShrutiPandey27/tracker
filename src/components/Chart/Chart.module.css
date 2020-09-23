@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: center;
+    width:65%;
+
+    
+}
+@media only screnn and (max-width:970px){
+    .container{
+        width:600px;
+        height:100px;
+    }
+}
